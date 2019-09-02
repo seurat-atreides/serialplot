@@ -1,0 +1,3 @@
+build/
+!/.hgtags
+serialplot.pro.*
